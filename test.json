@@ -1,0 +1,82 @@
+[
+    {
+        "firstName": "Viva",
+        "lastName": "Robel",
+        "age": 21,
+        "visits": 302,
+        "progress": 84,
+        "status": "complicated"
+    },
+    {
+        "firstName": "Michaela",
+        "lastName": "Wolff",
+        "age": 37,
+        "visits": 134,
+        "progress": 28,
+        "status": "single"
+    },
+    {
+        "firstName": "Alexis",
+        "lastName": "Kling",
+        "age": 36,
+        "visits": 737,
+        "progress": 15,
+        "status": "relationship"
+    },
+    {
+        "firstName": "Verona",
+        "lastName": "Gibson",
+        "age": 17,
+        "visits": 621,
+        "progress": 64,
+        "status": "relationship"
+    },
+    {
+        "firstName": "Mary",
+        "lastName": "Ortiz",
+        "age": 30,
+        "visits": 57,
+        "progress": 8,
+        "status": "relationship"
+    },
+    {
+        "firstName": "Mossie",
+        "lastName": "Lynch",
+        "age": 2,
+        "visits": 297,
+        "progress": 3,
+        "status": "single"
+    },
+    {
+        "firstName": "Roosevelt",
+        "lastName": "Bernier",
+        "age": 11,
+        "visits": 983,
+        "progress": 46,
+        "status": "single"
+    },
+    {
+        "firstName": "Hattie",
+        "lastName": "Bins",
+        "age": 29,
+        "visits": 100,
+        "progress": 5,
+        "status": "complicated"
+    },
+    {
+        "firstName": "Drew",
+        "lastName": "Yundt",
+        "age": 13,
+        "visits": 598,
+        "progress": 62,
+        "status": "relationship"
+    },
+    {
+        "firstName": "Dillan",
+        "lastName": "Torphy",
+        "age": 3,
+        "visits": 1,
+        "progress": 100,
+        "status": "relationship"
+    }
+]
