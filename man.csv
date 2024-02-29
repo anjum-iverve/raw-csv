@@ -1,30 +1,14 @@
-﻿firstName,lastName,age,visits,progress,status,subRows
-"Lorenz","McClure",9,182,79,"complicated",""
-"Delores","Brakus",39,209,33,"relationship",""
-"Fernando","Schneider",1,236,66,"complicated",""
-"Cedrick","Gibson",6,454,38,"relationship",""
-"Lincoln","Boehm",20,204,74,"single",""
-"Wilburn","Schroeder",33,609,10,"relationship",""
-"Maxwell","Quigley",28,452,74,"complicated",""
-"Chasity","O'Keefe",17,912,39,"relationship",""
-"Eve","Trantow",17,802,61,"complicated",""
-"Henry","Mann",12,404,91,"complicated",""
-"Ashlynn","Gibson",8,83,58,"complicated",""
-"Van","Hudson-Crist",33,300,28,"relationship",""
-"Madge","Mueller",35,472,2,"relationship",""
-"Cordie","Breitenberg",9,3,80,"complicated",""
-"Mina","Gusikowski-Champlin",36,146,71,"relationship",""
-"Giovanny","Quigley",0,213,33,"complicated",""
-"Britney","Breitenberg",25,421,76,"complicated",""
-"Jaden","Jaskolski",28,869,61,"single",""
-"Lucie","Schoen",38,455,74,"single",""
-"Alfonso","Gibson",18,931,96,"relationship",""
-"Imelda","Kovacek",23,378,84,"relationship",""
-"Gayle","Lubowitz",9,630,96,"relationship",""
-"Sheila","Nicolas",34,945,34,"relationship",""
-"Louisa","Gutkowski",13,112,47,"relationship",""
-"Dayna","Langworth",15,537,81,"relationship",""
-"Rosa","Leannon",27,10,41,"complicated",""
-"Electa","Larkin-Johnston",35,385,20,"complicated",""
-"Bernard","Hoppe-Cassin",32,34,74,"complicated",""
-"Jesse","Von",40,435,79,"single",""
+DateTime,Latitude,Longitude,Depth,Magnitude,MagType,NbStations,Gap,Distance,RMS,Source,EventID
+1967/08/01 10:33:50.47,36.08000,-121.07083,80.339,2.50,Mx,10,292,42,0.25,NCSN,1000872
+1967/08/02 02:49:12.55,35.63433,-120.75716,3.980,2.60,Mx,9,322,108,0.24,NCSN,1000887
+1967/08/03 05:55:26.73,36.37967,-121.00850,39.609,2.70,Mx,10,298,21,0.41,NCSN,1000912
+1967/08/03 06:57:01.25,36.39550,-121.01667,40.159,2.70,Mx,10,293,19,0.46,NCSN,1000916
+1967/08/03 20:21:26.52,36.54350,-121.17216,5.945,2.60,Mx,10,132,6,0.07,NCSN,1000926
+1967/08/09 04:53:59.73,35.40150,-120.58783,4.060,2.60,Mx,7,331,131,0.26,NCSN,1000979
+1967/08/09 07:27:32.82,36.15567,-121.09367,68.790,2.70,Mx,10,284,33,0.39,NCSN,1000981
+1967/08/13 20:29:14.27,35.41950,-121.10900,4.050,2.70,Mx,9,325,124,0.28,NCSN,1001030
+1967/08/15 16:53:24.26,35.48417,-121.01167,4.585,2.90,Mx,8,322,107,0.77,NCSN,1001047
+1967/08/22 08:04:34.06,37.65333,-122.42950,39.675,2.50,Mx,25,329,30,0.24,NCSN,1001119
+1967/08/22 08:29:47.47,36.40050,-120.98650,36.357,3.00,Mx,9,298,16,0.63,NCSN,1001120
+1967/08/22 08:37:42.51,36.39767,-120.99983,37.267,2.90,Mx,9,296,15,0.61,NCSN,1001122
+1967/08/22 08:38:29.57,36.40117,-120.99050,36.627,2.60,Mx,9,297,15,0.64,NCSN,1001123
